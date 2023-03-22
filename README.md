@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dije-7
-- 👀 I’m interested in Blockchain development and python projects
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on Any Blockchain or Cryptocurrency projects
+- 👀 I’m interested in Machine Learning and Blockchain Development 
+- 🌱 I’m currently learning about Financial Machine Learning 
+- 💞️ I’m looking to collaborate on Any Machine learning or Blockchain technology projects
 - 📫 How to reach me - dhwajjain1@gmail.com
 
 <!---
