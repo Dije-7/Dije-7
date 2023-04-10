@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dije-7
+- 👋 Hi, I’m Dhwaj
 - 👀 I’m interested in Machine Learning and Blockchain Development 
 - 🌱 I’m currently learning about Financial Machine Learning 
 - 💞️ I’m looking to collaborate on Any Machine learning or Blockchain technology projects
